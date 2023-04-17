@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>fintechapp</finalName>
+		<finalName>MacApp</finalName>
 		
 		<plugins>
 			<plugin>
