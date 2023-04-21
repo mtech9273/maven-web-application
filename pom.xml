@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>MacApp</finalName>
+		<finalName>EaglesApp</finalName>
 		
 		<plugins>
 			<plugin>
